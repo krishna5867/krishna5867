@@ -1,20 +1,20 @@
-[![MasterHead](https://unsplash.com/photos/oqStl2L5oxI)]
-<h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
-<h3 align="center">A passionate Fullstack Web developer from India.</h3>
+
+<h1 align="center">Hi 👋, I'm KRISHNA KUMAR</h1>
+<h3 align="center">Fullstack Web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna5867&label=Profile%20views&color=0e75b6&style=flat" alt="krishna5867" /> </p>
+<!-- 
+- 🔭 I’m currently working on [React](https://product-design-landingpage.vercel.app/) -->
 
-- 🔭 I’m currently working on [React](https://product-design-landingpage.vercel.app/)
+<!-- - 🌱 I’m currently learning **A Web Developer** -->
 
-- 🌱 I’m currently learning **Full Stack JavaScript Bootcamp**
-
-- 👯 I’m looking to collaborate on **React**
+<!-- - 👯 I’m looking to collaborate on **React** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishna5867](https://github.com/krishna5867)
 
 - 📝 I regularly write articles on [https://krishnakmr.hashnode.dev/](https://krishnakmr.hashnode.dev/)
 
-- 💬 Ask me about **Javascript,React**
+<!-- - 💬 Ask me about **Web Development| ** -->
 
 - 📫 How to reach me **krishnakmr968@gmail.com**
 
@@ -41,4 +41,4 @@
 
 
 
-![image](https://unsplash.com/photos/oqStl2L5oxI)
+<!-- [!image](https://unsplash.com/photos/oqStl2L5oxI) -->
