@@ -6,15 +6,15 @@
 <!-- 
 - 🔭 I’m currently working on [React](https://product-design-landingpage.vercel.app/) -->
 
-<!-- - 🌱 I’m currently learning **A Web Developer** -->
+- 🌱 I’m currently learning **Full Stack Web Development by Ineuron.ai**
 
-<!-- - 👯 I’m looking to collaborate on **React** -->
+- 👯 I’m looking to collaborate on **JavaScript/React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishna5867](https://github.com/krishna5867)
+- 👨‍💻 All of my projects are available at [https://www.findcoder.io/u/krishna5867](https://www.findcoder.io/u/krishna5867)
 
 - 📝 I regularly write articles on [https://krishnakmr.hashnode.dev/](https://krishnakmr.hashnode.dev/)
 
-<!-- - 💬 Ask me about **Web Development| ** -->
+- 💬 Ask me about **Web Development| **
 
 - 📫 How to reach me **krishnakmr968@gmail.com**
 
