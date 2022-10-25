@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm KRISHNA KUMAR</h1>
-<h3 align="center">Fullstack Web developer.</h3>
+<h3 align="center">Aspiring Fullstack Web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna5867&label=Profile%20views&color=0e75b6&style=flat" alt="krishna5867" /> </p>
 <!-- 
-- 🔭 I’m currently working on [React](https://product-design-landingpage.vercel.app/) -->
+- 🔭 I’m currently working on [React]
 
 - 🌱 I’m currently learning **Full Stack Web Development by Ineuron.ai**
 
