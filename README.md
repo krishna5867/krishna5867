@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **krishnakmr968@gmail.com**
 - 
-- My Portpolio link **https://my-portfolio-six-murex.vercel.app/**
+- My Portpolio link **https://krishnawebdev.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
