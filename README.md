@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna5867&label=Profile%20views&color=0e75b6&style=flat" alt="krishna5867" /> </p>
 
 - 🔭 I’m currently working as React Developer @Findcoder.io
--     Check out my another github- https://github.com/krishxna
+- Check out my another github- [https://github.com/krishxna/](https://github.com/krishxna/) 
 
 - 🌱 I’m currently learning **Full Stack Web Development by Ineuron.ai**
 
